@@ -1,17 +1,13 @@
 # sideband
 
-FIXME: write description
+Some visual live-coding experiments.
 
 ## Usage
 
-FIXME: write
+Read the source.
 
 ## Installation
 
-FIXME: write
+lein deps
+lein native-deps
 
-## License
-
-Copyright (C) 2010 FIXME
-
-Distributed under the Eclipse Public License, the same as Clojure.

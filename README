@@ -4,10 +4,13 @@ Some visual live-coding experiments.
 
 ## Usage
 
-Read the source.
+$ lein repl
+
+> (require 'sideband.core)
+> (sideband.core/start)
 
 ## Installation
 
-lein deps
-lein native-deps
+$ lein deps
+$ lein native-deps
 
